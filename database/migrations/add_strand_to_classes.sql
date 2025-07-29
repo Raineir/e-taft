@@ -1,0 +1,2 @@
+ALTER TABLE classes
+ADD COLUMN strand VARCHAR(50) NULL AFTER section;
